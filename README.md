@@ -18,14 +18,18 @@ Patients
 
 
 #Page 1 - Dashboard
+
 ![image](https://github.com/ashishpateldev/Healthcare-Analysis-Dashboard/assets/139689839/696e66f1-2ad7-433f-a488-b80ec29126c5)
 
 
 #Page 2 - Revenue and Expenses
+
 ![image](https://github.com/ashishpateldev/Healthcare-Analysis-Dashboard/assets/139689839/88f9ccd5-75a2-4bf9-b114-131746cf3fe2)
 
 #Page 3- Patients Details
+
 ![image](https://github.com/ashishpateldev/Healthcare-Analysis-Dashboard/assets/139689839/78962de2-6d3d-49b6-a98a-1e773f24491c)
 
 #Page 4 - Medication and Cost per Patient
+
 ![image](https://github.com/ashishpateldev/Healthcare-Analysis-Dashboard/assets/139689839/7796796c-3c51-4c1d-ab90-30e199f073cd)
