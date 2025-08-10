@@ -40,7 +40,7 @@ It leverages SQL for data extraction and transformation, and Power BI for intera
 ![image](https://github.com/ashishpateldev/Healthcare-Analysis-Dashboard/assets/139689839/7796796c-3c51-4c1d-ab90-30e199f073cd)
 
 🛠️ Tech Stack
-SQL – Data extraction, cleaning, and transformation
-Power BI – Interactive dashboard creation and visualization
-Data Modeling – Relationships and calculated measures for analysis
+- SQL – Data extraction, cleaning, and transformation
+- Power BI – Interactive dashboard creation and visualization
+- Data Modeling – Relationships and calculated measures for analysis
 
