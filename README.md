@@ -1,22 +1,26 @@
 # Healthcare-Analysis-Dashboard Using Power BI
 
-The Project Healthcare Analysis is Designed for Hospital administration and Management to Keep Track of:-
+🏥 Healthcare Analysis Dashboard – Power BI & SQL
+This project is a Healthcare Analysis Dashboard designed for hospital administration and management to efficiently monitor doctors, patients, revenue, and expenses.
+It leverages SQL for data extraction and transformation, and Power BI for interactive visualization.
 
-The Doctors
+📌 Key Insights & Features
 
-No of Patient Per Doctor
-Doctors Charges Per Patient
-Doctors with Most Workload
-Revenue and Expenses
+👨‍⚕️ Doctors Analysis
+Number of Patients per Doctor
+Doctor Charges per Patient
+Doctors with the Highest Workload
+Revenue Generated per Doctor
 
-Total Revenue and Expenses Per Month and Overall
-Cost to Doctor Per Month
-Total Other Expenses Per Month
-Patients
+💰 Financial Overview
+Monthly & Overall Revenue vs Expenses
+Doctor Costs per Month
+Other Monthly Expenses
 
-Patients Whole Details
-Number and Type of Test Per Patient
-
+🧍‍♂️ Patient Management
+Complete Patient Details
+Number and Types of Tests per Patient
+Medication and Cost Analysis per Patient
 
 #Page 1 - Dashboard
 
@@ -34,3 +38,9 @@ Number and Type of Test Per Patient
 #Page 4 - Medication and Cost per Patient
 
 ![image](https://github.com/ashishpateldev/Healthcare-Analysis-Dashboard/assets/139689839/7796796c-3c51-4c1d-ab90-30e199f073cd)
+
+🛠️ Tech Stack
+SQL – Data extraction, cleaning, and transformation
+Power BI – Interactive dashboard creation and visualization
+Data Modeling – Relationships and calculated measures for analysis
+
