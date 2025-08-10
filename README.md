@@ -7,20 +7,20 @@ It leverages SQL for data extraction and transformation, and Power BI for intera
 📌 Key Insights & Features
 
 👨‍⚕️ Doctors Analysis
-Number of Patients per Doctor
-Doctor Charges per Patient
-Doctors with the Highest Workload
-Revenue Generated per Doctor
+- Number of Patients per Doctor
+- Doctor Charges per Patient
+- Doctors with the Highest Workload
+- Revenue Generated per Doctor
 
 💰 Financial Overview
-Monthly & Overall Revenue vs Expenses
-Doctor Costs per Month
-Other Monthly Expenses
+- Monthly & Overall Revenue vs Expenses
+- Doctor Costs per Month
+- Other Monthly Expenses
 
 🧍‍♂️ Patient Management
-Complete Patient Details
-Number and Types of Tests per Patient
-Medication and Cost Analysis per Patient
+- Complete Patient Details
+- Number and Types of Tests per Patient
+- Medication and Cost Analysis per Patient
 
 #Page 1 - Dashboard
 
